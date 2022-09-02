@@ -1,4 +1,4 @@
-namespace BookStoreApi
+namespace Demo.BookStore.Api
 {
     public class Program
     {

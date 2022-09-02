@@ -1,4 +1,4 @@
-﻿namespace Demo.MongoDB
+﻿namespace Demo.Console.MongoDB
 {
     using global::MongoDB.Bson;
     using global::MongoDB.Driver;

@@ -1,7 +1,7 @@
-using BookStoreApi.Models;
+using Demo.BookStore.Api.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BookStoreApi.Controllers
+namespace Demo.BookStore.Api.Controllers
 {
     /// <summary>
     /// Original Source:

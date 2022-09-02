@@ -1,8 +1,8 @@
-﻿using BookStoreApi.Models;
+﻿using Demo.BookStore.Api.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
-namespace BookStoreApi
+namespace Demo.BookStore.Api
 {
     /// <summary>
     /// Original Source:
