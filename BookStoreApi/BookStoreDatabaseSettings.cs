@@ -1,4 +1,4 @@
-﻿namespace Demo.MongoDB
+﻿namespace BookStoreApi
 {
     public class BookStoreDatabaseSettings
     {

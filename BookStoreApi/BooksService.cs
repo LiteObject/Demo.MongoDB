@@ -1,9 +1,13 @@
-﻿using Demo.MongoDB.Models;
+﻿using BookStoreApi.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
-namespace Demo.MongoDB
+namespace BookStoreApi
 {
+    /// <summary>
+    /// Original Source:
+    /// https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-6.0&tabs=visual-studio
+    /// </summary>
     public class BooksService
     {
         private readonly IMongoCollection<Book> _booksCollection;
